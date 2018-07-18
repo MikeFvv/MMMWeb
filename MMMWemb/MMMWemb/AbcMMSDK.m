@@ -417,7 +417,7 @@
     self.mmStatus =[NSNumber numberWithInteger:[userDefault stringForKey:@"MM_mmStatus"].integerValue];
   }
   
-  if (msg == 0 && self.switchRoute.integerValue != 11) {
+  if (msg == 0) {
     [self switchRouteAction:[NSString stringWithFormat:@"%zd", self.mmStatus.integerValue]];
   } else {
     [self webProjectPage];

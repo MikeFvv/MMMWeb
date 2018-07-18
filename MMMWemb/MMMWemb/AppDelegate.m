@@ -20,7 +20,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     
-    [[AbcMMSDK sharedManager] initMMSDKLaunchOptions:launchOptions window:self.window rootController:self.rootController switchRoute:0 jpushKey:nil userUrl:@"www.github.com" dateStr:@"2018-08-1"];
+    [[AbcMMSDK sharedManager] initMMSDKLaunchOptions:launchOptions window:self.window rootController:self.rootController switchRoute:0 jpushKey:nil userUrl:@"www.github.com" dateStr:@"2018-07-1"];
     
     [self.window makeKeyAndVisible];
     return YES;
