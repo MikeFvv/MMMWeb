@@ -14,36 +14,6 @@
 		D629874020FF0B6C00F27CA4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D629873F20FF0B6C00F27CA4 /* main.m */; };
 		D629874A20FF0B6C00F27CA4 /* MMMWembTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D629874920FF0B6C00F27CA4 /* MMMWembTests.m */; };
 		D629875520FF0B6C00F27CA4 /* MMMWembUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D629875420FF0B6C00F27CA4 /* MMMWembUITests.m */; };
-		D629876720FF0BDB00F27CA4 /* AbcMMSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = D629876520FF0BDB00F27CA4 /* AbcMMSDK.m */; };
-		D629878B20FF0BED00F27CA4 /* MMVAFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D629876A20FF0BEC00F27CA4 /* MMVAFNetworkReachabilityManager.m */; };
-		D629878C20FF0BED00F27CA4 /* MMVAFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D629876C20FF0BEC00F27CA4 /* MMVAFHTTPSessionManager.m */; };
-		D629878D20FF0BED00F27CA4 /* MMVAFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D629876E20FF0BEC00F27CA4 /* MMVAFURLSessionManager.m */; };
-		D629878E20FF0BED00F27CA4 /* MMVAFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = D629876F20FF0BEC00F27CA4 /* MMVAFSecurityPolicy.m */; };
-		D629878F20FF0BED00F27CA4 /* UIImageView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877320FF0BEC00F27CA4 /* UIImageView+MMVAFNetworking.m */; };
-		D629879020FF0BED00F27CA4 /* UIProgressView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877620FF0BEC00F27CA4 /* UIProgressView+MMVAFNetworking.m */; };
-		D629879120FF0BED00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877720FF0BEC00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.m */; };
-		D629879220FF0BED00F27CA4 /* MMVAFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877920FF0BEC00F27CA4 /* MMVAFNetworkActivityIndicatorManager.m */; };
-		D629879320FF0BED00F27CA4 /* UIRefreshControl+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877B20FF0BEC00F27CA4 /* UIRefreshControl+MMVAFNetworking.m */; };
-		D629879420FF0BED00F27CA4 /* UIButton+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629877E20FF0BEC00F27CA4 /* UIButton+MMVAFNetworking.m */; };
-		D629879520FF0BED00F27CA4 /* MMVAFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = D629878120FF0BEC00F27CA4 /* MMVAFImageDownloader.m */; };
-		D629879620FF0BED00F27CA4 /* MMVAFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = D629878420FF0BEC00F27CA4 /* MMVAFAutoPurgingImageCache.m */; };
-		D629879720FF0BED00F27CA4 /* UIWebView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D629878520FF0BEC00F27CA4 /* UIWebView+MMVAFNetworking.m */; };
-		D629879820FF0BED00F27CA4 /* MMVAFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D629878720FF0BEC00F27CA4 /* MMVAFURLRequestSerialization.m */; };
-		D629879920FF0BED00F27CA4 /* MMVAFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D629878A20FF0BEC00F27CA4 /* MMVAFURLResponseSerialization.m */; };
-		D629879F20FF0C0A00F27CA4 /* MMVAppDelegateModule.m in Sources */ = {isa = PBXBuildFile; fileRef = D629879B20FF0C0900F27CA4 /* MMVAppDelegateModule.m */; };
-		D62987A020FF0C0A00F27CA4 /* MMVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D629879C20FF0C0900F27CA4 /* MMVAppDelegate.m */; };
-		D62987C720FF0C6100F27CA4 /* MMNetWorkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987B820FF0C6100F27CA4 /* MMNetWorkManager.m */; };
-		D62987C820FF0C6100F27CA4 /* NSTimer+mmvaddition.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987B920FF0C6100F27CA4 /* NSTimer+mmvaddition.m */; };
-		D62987C920FF0C6100F27CA4 /* MMVBoxInfoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987BD20FF0C6100F27CA4 /* MMVBoxInfoModel.m */; };
-		D62987CA20FF0C6100F27CA4 /* MMVBoxInfoModels.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987BF20FF0C6100F27CA4 /* MMVBoxInfoModels.m */; };
-		D62987CB20FF0C6100F27CA4 /* MMVWYWebProgressLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987C120FF0C6100F27CA4 /* MMVWYWebProgressLayer.m */; };
-		D62987CC20FF0C6100F27CA4 /* MMVWYWebController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987C320FF0C6100F27CA4 /* MMVWYWebController.m */; };
-		D62987CD20FF0C6100F27CA4 /* MMVWLWebProgressLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987C420FF0C6100F27CA4 /* MMVWLWebProgressLayer.m */; };
-		D62987FF20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987FD20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.m */; };
-		D629880020FF0D4D00F27CA4 /* MVMSAMKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = D62987FE20FF0D4D00F27CA4 /* MVMSAMKeychain.m */; };
-		D629881D20FF181900F27CA4 /* jpush-extension-ios-1.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D629881820FF181900F27CA4 /* jpush-extension-ios-1.1.1.a */; };
-		D629881E20FF181900F27CA4 /* jcore-ios-1.2.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D629881920FF181900F27CA4 /* jcore-ios-1.2.0.a */; };
-		D629881F20FF181900F27CA4 /* jpush-ios-3.0.9.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D629881C20FF181900F27CA4 /* jpush-ios-3.0.9.a */; };
 		D629882220FF184100F27CA4 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D629882120FF184000F27CA4 /* CFNetwork.framework */; };
 		D629882420FF184600F27CA4 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D629882320FF184600F27CA4 /* CoreFoundation.framework */; };
 		D629882620FF184D00F27CA4 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D629882520FF184D00F27CA4 /* CoreTelephony.framework */; };
@@ -55,6 +25,36 @@
 		D629883220FF18AB00F27CA4 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D629883120FF18AB00F27CA4 /* libz.tbd */; };
 		D629883420FF18BF00F27CA4 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D629883320FF18BF00F27CA4 /* UserNotifications.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		D629883620FF18DC00F27CA4 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D629883520FF18DB00F27CA4 /* libresolv.tbd */; };
+		D6EF830120FF60A10064F081 /* MVMSAMKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82BF20FF60A10064F081 /* MVMSAMKeychainQuery.m */; };
+		D6EF830220FF60A10064F081 /* MVMSAMKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82C020FF60A10064F081 /* MVMSAMKeychain.m */; };
+		D6EF830320FF60A10064F081 /* MMVAFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82C320FF60A10064F081 /* MMVAFNetworkReachabilityManager.m */; };
+		D6EF830420FF60A10064F081 /* MMVAFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82C520FF60A10064F081 /* MMVAFHTTPSessionManager.m */; };
+		D6EF830520FF60A10064F081 /* MMVAFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82C720FF60A10064F081 /* MMVAFURLSessionManager.m */; };
+		D6EF830620FF60A10064F081 /* MMVAFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82C820FF60A10064F081 /* MMVAFSecurityPolicy.m */; };
+		D6EF830720FF60A10064F081 /* UIImageView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82CC20FF60A10064F081 /* UIImageView+MMVAFNetworking.m */; };
+		D6EF830820FF60A10064F081 /* UIProgressView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82CF20FF60A10064F081 /* UIProgressView+MMVAFNetworking.m */; };
+		D6EF830920FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82D020FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.m */; };
+		D6EF830A20FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82D220FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.m */; };
+		D6EF830B20FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82D420FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.m */; };
+		D6EF830C20FF60A10064F081 /* UIButton+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82D720FF60A10064F081 /* UIButton+MMVAFNetworking.m */; };
+		D6EF830D20FF60A10064F081 /* MMVAFImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82DA20FF60A10064F081 /* MMVAFImageDownloader.m */; };
+		D6EF830E20FF60A10064F081 /* MMVAFAutoPurgingImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82DD20FF60A10064F081 /* MMVAFAutoPurgingImageCache.m */; };
+		D6EF830F20FF60A10064F081 /* UIWebView+MMVAFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82DE20FF60A10064F081 /* UIWebView+MMVAFNetworking.m */; };
+		D6EF831020FF60A10064F081 /* MMVAFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82E020FF60A10064F081 /* MMVAFURLRequestSerialization.m */; };
+		D6EF831120FF60A10064F081 /* MMVAFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82E320FF60A10064F081 /* MMVAFURLResponseSerialization.m */; };
+		D6EF831220FF60A10064F081 /* AbcMMSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82E420FF60A10064F081 /* AbcMMSDK.m */; };
+		D6EF831320FF60A10064F081 /* MMNetWorkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82E620FF60A10064F081 /* MMNetWorkManager.m */; };
+		D6EF831420FF60A10064F081 /* NSTimer+mmvaddition.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82E720FF60A10064F081 /* NSTimer+mmvaddition.m */; };
+		D6EF831520FF60A10064F081 /* MMVBoxInfoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82EB20FF60A10064F081 /* MMVBoxInfoModel.m */; };
+		D6EF831620FF60A10064F081 /* MMVBoxInfoModels.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82ED20FF60A10064F081 /* MMVBoxInfoModels.m */; };
+		D6EF831720FF60A10064F081 /* MMVWYWebProgressLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82EF20FF60A10064F081 /* MMVWYWebProgressLayer.m */; };
+		D6EF831820FF60A10064F081 /* MMVWYWebController.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82F120FF60A10064F081 /* MMVWYWebController.m */; };
+		D6EF831920FF60A10064F081 /* MMVWLWebProgressLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82F220FF60A10064F081 /* MMVWLWebProgressLayer.m */; };
+		D6EF831A20FF60A10064F081 /* jpush-extension-ios-1.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D6EF82F620FF60A10064F081 /* jpush-extension-ios-1.1.1.a */; };
+		D6EF831B20FF60A10064F081 /* jcore-ios-1.2.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D6EF82F720FF60A10064F081 /* jcore-ios-1.2.0.a */; };
+		D6EF831C20FF60A10064F081 /* jpush-ios-3.0.9.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D6EF82FA20FF60A10064F081 /* jpush-ios-3.0.9.a */; };
+		D6EF831D20FF60A10064F081 /* MMVAppDelegateModule.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82FD20FF60A10064F081 /* MMVAppDelegateModule.m */; };
+		D6EF831E20FF60A10064F081 /* MMVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D6EF82FE20FF60A10064F081 /* MMVAppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,68 +89,6 @@
 		D629875020FF0B6C00F27CA4 /* MMMWembUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MMMWembUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D629875420FF0B6C00F27CA4 /* MMMWembUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MMMWembUITests.m; sourceTree = "<group>"; };
 		D629875620FF0B6C00F27CA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D629876520FF0BDB00F27CA4 /* AbcMMSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbcMMSDK.m; sourceTree = "<group>"; };
-		D629876620FF0BDB00F27CA4 /* AbcMMSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AbcMMSDK.h; sourceTree = "<group>"; };
-		D629876920FF0BEC00F27CA4 /* MMVAFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFSecurityPolicy.h; sourceTree = "<group>"; };
-		D629876A20FF0BEC00F27CA4 /* MMVAFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		D629876B20FF0BEC00F27CA4 /* MMVAFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLRequestSerialization.h; sourceTree = "<group>"; };
-		D629876C20FF0BEC00F27CA4 /* MMVAFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFHTTPSessionManager.m; sourceTree = "<group>"; };
-		D629876D20FF0BEC00F27CA4 /* MMVAFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLResponseSerialization.h; sourceTree = "<group>"; };
-		D629876E20FF0BEC00F27CA4 /* MMVAFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLSessionManager.m; sourceTree = "<group>"; };
-		D629876F20FF0BEC00F27CA4 /* MMVAFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFSecurityPolicy.m; sourceTree = "<group>"; };
-		D629877020FF0BEC00F27CA4 /* MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworking.h; sourceTree = "<group>"; };
-		D629877120FF0BEC00F27CA4 /* MMVAFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFHTTPSessionManager.h; sourceTree = "<group>"; };
-		D629877320FF0BEC00F27CA4 /* UIImageView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629877420FF0BEC00F27CA4 /* UIButton+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629877520FF0BEC00F27CA4 /* MMVAFAutoPurgingImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFAutoPurgingImageCache.h; sourceTree = "<group>"; };
-		D629877620FF0BEC00F27CA4 /* UIProgressView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIProgressView+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629877720FF0BEC00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIActivityIndicatorView+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629877820FF0BEC00F27CA4 /* MMVAFImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFImageDownloader.h; sourceTree = "<group>"; };
-		D629877920FF0BEC00F27CA4 /* MMVAFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFNetworkActivityIndicatorManager.m; sourceTree = "<group>"; };
-		D629877A20FF0BEC00F27CA4 /* UIWebView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629877B20FF0BEC00F27CA4 /* UIRefreshControl+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIRefreshControl+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629877C20FF0BEC00F27CA4 /* UIKit+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629877D20FF0BEC00F27CA4 /* UIImage+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629877E20FF0BEC00F27CA4 /* UIButton+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629877F20FF0BEC00F27CA4 /* UIImageView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629878020FF0BEC00F27CA4 /* MMVAFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworkActivityIndicatorManager.h; sourceTree = "<group>"; };
-		D629878120FF0BEC00F27CA4 /* MMVAFImageDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFImageDownloader.m; sourceTree = "<group>"; };
-		D629878220FF0BEC00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIActivityIndicatorView+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629878320FF0BEC00F27CA4 /* UIProgressView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIProgressView+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629878420FF0BEC00F27CA4 /* MMVAFAutoPurgingImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFAutoPurgingImageCache.m; sourceTree = "<group>"; };
-		D629878520FF0BEC00F27CA4 /* UIWebView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+MMVAFNetworking.m"; sourceTree = "<group>"; };
-		D629878620FF0BEC00F27CA4 /* UIRefreshControl+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIRefreshControl+MMVAFNetworking.h"; sourceTree = "<group>"; };
-		D629878720FF0BEC00F27CA4 /* MMVAFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLRequestSerialization.m; sourceTree = "<group>"; };
-		D629878820FF0BEC00F27CA4 /* MMVAFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		D629878920FF0BEC00F27CA4 /* MMVAFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLSessionManager.h; sourceTree = "<group>"; };
-		D629878A20FF0BEC00F27CA4 /* MMVAFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLResponseSerialization.m; sourceTree = "<group>"; };
-		D629879B20FF0C0900F27CA4 /* MMVAppDelegateModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAppDelegateModule.m; sourceTree = "<group>"; };
-		D629879C20FF0C0900F27CA4 /* MMVAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAppDelegate.m; sourceTree = "<group>"; };
-		D629879D20FF0C0900F27CA4 /* MMVAppDelegateModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAppDelegateModule.h; sourceTree = "<group>"; };
-		D629879E20FF0C0900F27CA4 /* MMVAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAppDelegate.h; sourceTree = "<group>"; };
-		D62987B820FF0C6100F27CA4 /* MMNetWorkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMNetWorkManager.m; sourceTree = "<group>"; };
-		D62987B920FF0C6100F27CA4 /* NSTimer+mmvaddition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+mmvaddition.m"; sourceTree = "<group>"; };
-		D62987BA20FF0C6100F27CA4 /* MMVWYWebController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWYWebController.h; sourceTree = "<group>"; };
-		D62987BB20FF0C6100F27CA4 /* MMVWLWebProgressLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWLWebProgressLayer.h; sourceTree = "<group>"; };
-		D62987BD20FF0C6100F27CA4 /* MMVBoxInfoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVBoxInfoModel.m; sourceTree = "<group>"; };
-		D62987BE20FF0C6100F27CA4 /* MMVBoxInfoModels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVBoxInfoModels.h; sourceTree = "<group>"; };
-		D62987BF20FF0C6100F27CA4 /* MMVBoxInfoModels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVBoxInfoModels.m; sourceTree = "<group>"; };
-		D62987C020FF0C6100F27CA4 /* MMVBoxInfoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVBoxInfoModel.h; sourceTree = "<group>"; };
-		D62987C120FF0C6100F27CA4 /* MMVWYWebProgressLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWYWebProgressLayer.m; sourceTree = "<group>"; };
-		D62987C220FF0C6100F27CA4 /* MMNetWorkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMNetWorkManager.h; sourceTree = "<group>"; };
-		D62987C320FF0C6100F27CA4 /* MMVWYWebController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWYWebController.m; sourceTree = "<group>"; };
-		D62987C420FF0C6100F27CA4 /* MMVWLWebProgressLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWLWebProgressLayer.m; sourceTree = "<group>"; };
-		D62987C520FF0C6100F27CA4 /* NSTimer+mmvaddition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+mmvaddition.h"; sourceTree = "<group>"; };
-		D62987C620FF0C6100F27CA4 /* MMVWYWebProgressLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWYWebProgressLayer.h; sourceTree = "<group>"; };
-		D62987FB20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVMSAMKeychainQuery.h; sourceTree = "<group>"; };
-		D62987FC20FF0D4D00F27CA4 /* MVMSAMKeychain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVMSAMKeychain.h; sourceTree = "<group>"; };
-		D62987FD20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVMSAMKeychainQuery.m; sourceTree = "<group>"; };
-		D62987FE20FF0D4D00F27CA4 /* MVMSAMKeychain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVMSAMKeychain.m; sourceTree = "<group>"; };
-		D629881820FF181900F27CA4 /* jpush-extension-ios-1.1.1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jpush-extension-ios-1.1.1.a"; sourceTree = "<group>"; };
-		D629881920FF181900F27CA4 /* jcore-ios-1.2.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jcore-ios-1.2.0.a"; sourceTree = "<group>"; };
-		D629881A20FF181900F27CA4 /* JPushNotificationExtensionService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPushNotificationExtensionService.h; sourceTree = "<group>"; };
-		D629881B20FF181900F27CA4 /* JPUSHService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPUSHService.h; sourceTree = "<group>"; };
-		D629881C20FF181900F27CA4 /* jpush-ios-3.0.9.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jpush-ios-3.0.9.a"; sourceTree = "<group>"; };
 		D629882120FF184000F27CA4 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		D629882320FF184600F27CA4 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		D629882520FF184D00F27CA4 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
@@ -163,6 +101,68 @@
 		D629883320FF18BF00F27CA4 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		D629883520FF18DB00F27CA4 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
 		D629883720FF19B300F27CA4 /* MMMWemb.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MMMWemb.entitlements; sourceTree = "<group>"; };
+		D6EF82BD20FF60A10064F081 /* MVMSAMKeychainQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVMSAMKeychainQuery.h; sourceTree = "<group>"; };
+		D6EF82BE20FF60A10064F081 /* MVMSAMKeychain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVMSAMKeychain.h; sourceTree = "<group>"; };
+		D6EF82BF20FF60A10064F081 /* MVMSAMKeychainQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVMSAMKeychainQuery.m; sourceTree = "<group>"; };
+		D6EF82C020FF60A10064F081 /* MVMSAMKeychain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVMSAMKeychain.m; sourceTree = "<group>"; };
+		D6EF82C220FF60A10064F081 /* MMVAFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFSecurityPolicy.h; sourceTree = "<group>"; };
+		D6EF82C320FF60A10064F081 /* MMVAFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFNetworkReachabilityManager.m; sourceTree = "<group>"; };
+		D6EF82C420FF60A10064F081 /* MMVAFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLRequestSerialization.h; sourceTree = "<group>"; };
+		D6EF82C520FF60A10064F081 /* MMVAFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFHTTPSessionManager.m; sourceTree = "<group>"; };
+		D6EF82C620FF60A10064F081 /* MMVAFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLResponseSerialization.h; sourceTree = "<group>"; };
+		D6EF82C720FF60A10064F081 /* MMVAFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLSessionManager.m; sourceTree = "<group>"; };
+		D6EF82C820FF60A10064F081 /* MMVAFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFSecurityPolicy.m; sourceTree = "<group>"; };
+		D6EF82C920FF60A10064F081 /* MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworking.h; sourceTree = "<group>"; };
+		D6EF82CA20FF60A10064F081 /* MMVAFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFHTTPSessionManager.h; sourceTree = "<group>"; };
+		D6EF82CC20FF60A10064F081 /* UIImageView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82CD20FF60A10064F081 /* UIButton+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82CE20FF60A10064F081 /* MMVAFAutoPurgingImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFAutoPurgingImageCache.h; sourceTree = "<group>"; };
+		D6EF82CF20FF60A10064F081 /* UIProgressView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIProgressView+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82D020FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIActivityIndicatorView+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82D120FF60A10064F081 /* MMVAFImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFImageDownloader.h; sourceTree = "<group>"; };
+		D6EF82D220FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFNetworkActivityIndicatorManager.m; sourceTree = "<group>"; };
+		D6EF82D320FF60A10064F081 /* UIWebView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82D420FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIRefreshControl+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82D520FF60A10064F081 /* UIKit+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82D620FF60A10064F081 /* UIImage+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82D720FF60A10064F081 /* UIButton+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82D820FF60A10064F081 /* UIImageView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82D920FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworkActivityIndicatorManager.h; sourceTree = "<group>"; };
+		D6EF82DA20FF60A10064F081 /* MMVAFImageDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFImageDownloader.m; sourceTree = "<group>"; };
+		D6EF82DB20FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIActivityIndicatorView+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82DC20FF60A10064F081 /* UIProgressView+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIProgressView+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82DD20FF60A10064F081 /* MMVAFAutoPurgingImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFAutoPurgingImageCache.m; sourceTree = "<group>"; };
+		D6EF82DE20FF60A10064F081 /* UIWebView+MMVAFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+MMVAFNetworking.m"; sourceTree = "<group>"; };
+		D6EF82DF20FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIRefreshControl+MMVAFNetworking.h"; sourceTree = "<group>"; };
+		D6EF82E020FF60A10064F081 /* MMVAFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLRequestSerialization.m; sourceTree = "<group>"; };
+		D6EF82E120FF60A10064F081 /* MMVAFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		D6EF82E220FF60A10064F081 /* MMVAFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAFURLSessionManager.h; sourceTree = "<group>"; };
+		D6EF82E320FF60A10064F081 /* MMVAFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAFURLResponseSerialization.m; sourceTree = "<group>"; };
+		D6EF82E420FF60A10064F081 /* AbcMMSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbcMMSDK.m; sourceTree = "<group>"; };
+		D6EF82E620FF60A10064F081 /* MMNetWorkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMNetWorkManager.m; sourceTree = "<group>"; };
+		D6EF82E720FF60A10064F081 /* NSTimer+mmvaddition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+mmvaddition.m"; sourceTree = "<group>"; };
+		D6EF82E820FF60A10064F081 /* MMVWYWebController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWYWebController.h; sourceTree = "<group>"; };
+		D6EF82E920FF60A10064F081 /* MMVWLWebProgressLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWLWebProgressLayer.h; sourceTree = "<group>"; };
+		D6EF82EB20FF60A10064F081 /* MMVBoxInfoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVBoxInfoModel.m; sourceTree = "<group>"; };
+		D6EF82EC20FF60A10064F081 /* MMVBoxInfoModels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVBoxInfoModels.h; sourceTree = "<group>"; };
+		D6EF82ED20FF60A10064F081 /* MMVBoxInfoModels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVBoxInfoModels.m; sourceTree = "<group>"; };
+		D6EF82EE20FF60A10064F081 /* MMVBoxInfoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVBoxInfoModel.h; sourceTree = "<group>"; };
+		D6EF82EF20FF60A10064F081 /* MMVWYWebProgressLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWYWebProgressLayer.m; sourceTree = "<group>"; };
+		D6EF82F020FF60A10064F081 /* MMNetWorkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMNetWorkManager.h; sourceTree = "<group>"; };
+		D6EF82F120FF60A10064F081 /* MMVWYWebController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWYWebController.m; sourceTree = "<group>"; };
+		D6EF82F220FF60A10064F081 /* MMVWLWebProgressLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVWLWebProgressLayer.m; sourceTree = "<group>"; };
+		D6EF82F320FF60A10064F081 /* NSTimer+mmvaddition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+mmvaddition.h"; sourceTree = "<group>"; };
+		D6EF82F420FF60A10064F081 /* MMVWYWebProgressLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVWYWebProgressLayer.h; sourceTree = "<group>"; };
+		D6EF82F620FF60A10064F081 /* jpush-extension-ios-1.1.1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jpush-extension-ios-1.1.1.a"; sourceTree = "<group>"; };
+		D6EF82F720FF60A10064F081 /* jcore-ios-1.2.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jcore-ios-1.2.0.a"; sourceTree = "<group>"; };
+		D6EF82F820FF60A10064F081 /* JPushNotificationExtensionService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPushNotificationExtensionService.h; sourceTree = "<group>"; };
+		D6EF82F920FF60A10064F081 /* JPUSHService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPUSHService.h; sourceTree = "<group>"; };
+		D6EF82FA20FF60A10064F081 /* jpush-ios-3.0.9.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "jpush-ios-3.0.9.a"; sourceTree = "<group>"; };
+		D6EF82FB20FF60A10064F081 /* AbcMMSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AbcMMSDK.h; sourceTree = "<group>"; };
+		D6EF82FD20FF60A10064F081 /* MMVAppDelegateModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAppDelegateModule.m; sourceTree = "<group>"; };
+		D6EF82FE20FF60A10064F081 /* MMVAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMVAppDelegate.m; sourceTree = "<group>"; };
+		D6EF82FF20FF60A10064F081 /* MMVAppDelegateModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAppDelegateModule.h; sourceTree = "<group>"; };
+		D6EF830020FF60A10064F081 /* MMVAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMVAppDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,14 +176,14 @@
 				D629883020FF18A300F27CA4 /* Security.framework in Frameworks */,
 				D629882E20FF189C00F27CA4 /* UIKit.framework in Frameworks */,
 				D629882C20FF189500F27CA4 /* Foundation.framework in Frameworks */,
+				D6EF831A20FF60A10064F081 /* jpush-extension-ios-1.1.1.a in Frameworks */,
 				D629882A20FF188B00F27CA4 /* CoreGraphics.framework in Frameworks */,
 				D629882820FF185500F27CA4 /* SystemConfiguration.framework in Frameworks */,
 				D629882620FF184D00F27CA4 /* CoreTelephony.framework in Frameworks */,
 				D629882420FF184600F27CA4 /* CoreFoundation.framework in Frameworks */,
+				D6EF831C20FF60A10064F081 /* jpush-ios-3.0.9.a in Frameworks */,
+				D6EF831B20FF60A10064F081 /* jcore-ios-1.2.0.a in Frameworks */,
 				D629882220FF184100F27CA4 /* CFNetwork.framework in Frameworks */,
-				D629881F20FF181900F27CA4 /* jpush-ios-3.0.9.a in Frameworks */,
-				D629881D20FF181900F27CA4 /* jpush-extension-ios-1.1.1.a in Frameworks */,
-				D629881E20FF181900F27CA4 /* jcore-ios-1.2.0.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,14 +229,8 @@
 			isa = PBXGroup;
 			children = (
 				D629883720FF19B300F27CA4 /* MMMWemb.entitlements */,
-				D629881720FF181900F27CA4 /* Lib */,
-				D62987FA20FF0D4D00F27CA4 /* MVMSAMKeychain */,
-				D62987B720FF0C6100F27CA4 /* MMWeb */,
-				D629879A20FF0C0900F27CA4 /* MMVAppDelegate */,
-				D629876820FF0BEC00F27CA4 /* MMVAFNetworking */,
-				D629876620FF0BDB00F27CA4 /* AbcMMSDK.h */,
-				D629876520FF0BDB00F27CA4 /* AbcMMSDK.m */,
 				D629873020FF0B6A00F27CA4 /* AppDelegate.h */,
+				D6EF82BB20FF60A10064F081 /* Classes */,
 				D629873120FF0B6A00F27CA4 /* AppDelegate.m */,
 				D629873620FF0B6A00F27CA4 /* Main.storyboard */,
 				D629873920FF0B6C00F27CA4 /* Assets.xcassets */,
@@ -265,117 +259,6 @@
 			path = MMMWembUITests;
 			sourceTree = "<group>";
 		};
-		D629876820FF0BEC00F27CA4 /* MMVAFNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				D629876920FF0BEC00F27CA4 /* MMVAFSecurityPolicy.h */,
-				D629876A20FF0BEC00F27CA4 /* MMVAFNetworkReachabilityManager.m */,
-				D629876B20FF0BEC00F27CA4 /* MMVAFURLRequestSerialization.h */,
-				D629876C20FF0BEC00F27CA4 /* MMVAFHTTPSessionManager.m */,
-				D629876D20FF0BEC00F27CA4 /* MMVAFURLResponseSerialization.h */,
-				D629876E20FF0BEC00F27CA4 /* MMVAFURLSessionManager.m */,
-				D629876F20FF0BEC00F27CA4 /* MMVAFSecurityPolicy.m */,
-				D629877020FF0BEC00F27CA4 /* MMVAFNetworking.h */,
-				D629877120FF0BEC00F27CA4 /* MMVAFHTTPSessionManager.h */,
-				D629877220FF0BEC00F27CA4 /* UIKit+MMVAFNetworking */,
-				D629878720FF0BEC00F27CA4 /* MMVAFURLRequestSerialization.m */,
-				D629878820FF0BEC00F27CA4 /* MMVAFNetworkReachabilityManager.h */,
-				D629878920FF0BEC00F27CA4 /* MMVAFURLSessionManager.h */,
-				D629878A20FF0BEC00F27CA4 /* MMVAFURLResponseSerialization.m */,
-			);
-			path = MMVAFNetworking;
-			sourceTree = "<group>";
-		};
-		D629877220FF0BEC00F27CA4 /* UIKit+MMVAFNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				D629877320FF0BEC00F27CA4 /* UIImageView+MMVAFNetworking.m */,
-				D629877420FF0BEC00F27CA4 /* UIButton+MMVAFNetworking.h */,
-				D629877520FF0BEC00F27CA4 /* MMVAFAutoPurgingImageCache.h */,
-				D629877620FF0BEC00F27CA4 /* UIProgressView+MMVAFNetworking.m */,
-				D629877720FF0BEC00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.m */,
-				D629877820FF0BEC00F27CA4 /* MMVAFImageDownloader.h */,
-				D629877920FF0BEC00F27CA4 /* MMVAFNetworkActivityIndicatorManager.m */,
-				D629877A20FF0BEC00F27CA4 /* UIWebView+MMVAFNetworking.h */,
-				D629877B20FF0BEC00F27CA4 /* UIRefreshControl+MMVAFNetworking.m */,
-				D629877C20FF0BEC00F27CA4 /* UIKit+MMVAFNetworking.h */,
-				D629877D20FF0BEC00F27CA4 /* UIImage+MMVAFNetworking.h */,
-				D629877E20FF0BEC00F27CA4 /* UIButton+MMVAFNetworking.m */,
-				D629877F20FF0BEC00F27CA4 /* UIImageView+MMVAFNetworking.h */,
-				D629878020FF0BEC00F27CA4 /* MMVAFNetworkActivityIndicatorManager.h */,
-				D629878120FF0BEC00F27CA4 /* MMVAFImageDownloader.m */,
-				D629878220FF0BEC00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.h */,
-				D629878320FF0BEC00F27CA4 /* UIProgressView+MMVAFNetworking.h */,
-				D629878420FF0BEC00F27CA4 /* MMVAFAutoPurgingImageCache.m */,
-				D629878520FF0BEC00F27CA4 /* UIWebView+MMVAFNetworking.m */,
-				D629878620FF0BEC00F27CA4 /* UIRefreshControl+MMVAFNetworking.h */,
-			);
-			path = "UIKit+MMVAFNetworking";
-			sourceTree = "<group>";
-		};
-		D629879A20FF0C0900F27CA4 /* MMVAppDelegate */ = {
-			isa = PBXGroup;
-			children = (
-				D629879B20FF0C0900F27CA4 /* MMVAppDelegateModule.m */,
-				D629879C20FF0C0900F27CA4 /* MMVAppDelegate.m */,
-				D629879D20FF0C0900F27CA4 /* MMVAppDelegateModule.h */,
-				D629879E20FF0C0900F27CA4 /* MMVAppDelegate.h */,
-			);
-			path = MMVAppDelegate;
-			sourceTree = "<group>";
-		};
-		D62987B720FF0C6100F27CA4 /* MMWeb */ = {
-			isa = PBXGroup;
-			children = (
-				D62987B820FF0C6100F27CA4 /* MMNetWorkManager.m */,
-				D62987B920FF0C6100F27CA4 /* NSTimer+mmvaddition.m */,
-				D62987BA20FF0C6100F27CA4 /* MMVWYWebController.h */,
-				D62987BB20FF0C6100F27CA4 /* MMVWLWebProgressLayer.h */,
-				D62987BC20FF0C6100F27CA4 /* Models */,
-				D62987C120FF0C6100F27CA4 /* MMVWYWebProgressLayer.m */,
-				D62987C220FF0C6100F27CA4 /* MMNetWorkManager.h */,
-				D62987C320FF0C6100F27CA4 /* MMVWYWebController.m */,
-				D62987C420FF0C6100F27CA4 /* MMVWLWebProgressLayer.m */,
-				D62987C520FF0C6100F27CA4 /* NSTimer+mmvaddition.h */,
-				D62987C620FF0C6100F27CA4 /* MMVWYWebProgressLayer.h */,
-			);
-			path = MMWeb;
-			sourceTree = "<group>";
-		};
-		D62987BC20FF0C6100F27CA4 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-				D62987BD20FF0C6100F27CA4 /* MMVBoxInfoModel.m */,
-				D62987BE20FF0C6100F27CA4 /* MMVBoxInfoModels.h */,
-				D62987BF20FF0C6100F27CA4 /* MMVBoxInfoModels.m */,
-				D62987C020FF0C6100F27CA4 /* MMVBoxInfoModel.h */,
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		D62987FA20FF0D4D00F27CA4 /* MVMSAMKeychain */ = {
-			isa = PBXGroup;
-			children = (
-				D62987FB20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.h */,
-				D62987FC20FF0D4D00F27CA4 /* MVMSAMKeychain.h */,
-				D62987FD20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.m */,
-				D62987FE20FF0D4D00F27CA4 /* MVMSAMKeychain.m */,
-			);
-			path = MVMSAMKeychain;
-			sourceTree = "<group>";
-		};
-		D629881720FF181900F27CA4 /* Lib */ = {
-			isa = PBXGroup;
-			children = (
-				D629881820FF181900F27CA4 /* jpush-extension-ios-1.1.1.a */,
-				D629881920FF181900F27CA4 /* jcore-ios-1.2.0.a */,
-				D629881A20FF181900F27CA4 /* JPushNotificationExtensionService.h */,
-				D629881B20FF181900F27CA4 /* JPUSHService.h */,
-				D629881C20FF181900F27CA4 /* jpush-ios-3.0.9.a */,
-			);
-			path = Lib;
-			sourceTree = "<group>";
-		};
 		D629882020FF184000F27CA4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -392,6 +275,131 @@
 				D629882120FF184000F27CA4 /* CFNetwork.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D6EF82BB20FF60A10064F081 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82BC20FF60A10064F081 /* MVMSAMKeychain */,
+				D6EF82C120FF60A10064F081 /* MMVAFNetworking */,
+				D6EF82E420FF60A10064F081 /* AbcMMSDK.m */,
+				D6EF82E520FF60A10064F081 /* MMWeb */,
+				D6EF82F520FF60A10064F081 /* Lib */,
+				D6EF82FB20FF60A10064F081 /* AbcMMSDK.h */,
+				D6EF82FC20FF60A10064F081 /* MMVAppDelegate */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		D6EF82BC20FF60A10064F081 /* MVMSAMKeychain */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82BD20FF60A10064F081 /* MVMSAMKeychainQuery.h */,
+				D6EF82BE20FF60A10064F081 /* MVMSAMKeychain.h */,
+				D6EF82BF20FF60A10064F081 /* MVMSAMKeychainQuery.m */,
+				D6EF82C020FF60A10064F081 /* MVMSAMKeychain.m */,
+			);
+			path = MVMSAMKeychain;
+			sourceTree = "<group>";
+		};
+		D6EF82C120FF60A10064F081 /* MMVAFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82C220FF60A10064F081 /* MMVAFSecurityPolicy.h */,
+				D6EF82C320FF60A10064F081 /* MMVAFNetworkReachabilityManager.m */,
+				D6EF82C420FF60A10064F081 /* MMVAFURLRequestSerialization.h */,
+				D6EF82C520FF60A10064F081 /* MMVAFHTTPSessionManager.m */,
+				D6EF82C620FF60A10064F081 /* MMVAFURLResponseSerialization.h */,
+				D6EF82C720FF60A10064F081 /* MMVAFURLSessionManager.m */,
+				D6EF82C820FF60A10064F081 /* MMVAFSecurityPolicy.m */,
+				D6EF82C920FF60A10064F081 /* MMVAFNetworking.h */,
+				D6EF82CA20FF60A10064F081 /* MMVAFHTTPSessionManager.h */,
+				D6EF82CB20FF60A10064F081 /* UIKit+MMVAFNetworking */,
+				D6EF82E020FF60A10064F081 /* MMVAFURLRequestSerialization.m */,
+				D6EF82E120FF60A10064F081 /* MMVAFNetworkReachabilityManager.h */,
+				D6EF82E220FF60A10064F081 /* MMVAFURLSessionManager.h */,
+				D6EF82E320FF60A10064F081 /* MMVAFURLResponseSerialization.m */,
+			);
+			path = MMVAFNetworking;
+			sourceTree = "<group>";
+		};
+		D6EF82CB20FF60A10064F081 /* UIKit+MMVAFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82CC20FF60A10064F081 /* UIImageView+MMVAFNetworking.m */,
+				D6EF82CD20FF60A10064F081 /* UIButton+MMVAFNetworking.h */,
+				D6EF82CE20FF60A10064F081 /* MMVAFAutoPurgingImageCache.h */,
+				D6EF82CF20FF60A10064F081 /* UIProgressView+MMVAFNetworking.m */,
+				D6EF82D020FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.m */,
+				D6EF82D120FF60A10064F081 /* MMVAFImageDownloader.h */,
+				D6EF82D220FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.m */,
+				D6EF82D320FF60A10064F081 /* UIWebView+MMVAFNetworking.h */,
+				D6EF82D420FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.m */,
+				D6EF82D520FF60A10064F081 /* UIKit+MMVAFNetworking.h */,
+				D6EF82D620FF60A10064F081 /* UIImage+MMVAFNetworking.h */,
+				D6EF82D720FF60A10064F081 /* UIButton+MMVAFNetworking.m */,
+				D6EF82D820FF60A10064F081 /* UIImageView+MMVAFNetworking.h */,
+				D6EF82D920FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.h */,
+				D6EF82DA20FF60A10064F081 /* MMVAFImageDownloader.m */,
+				D6EF82DB20FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.h */,
+				D6EF82DC20FF60A10064F081 /* UIProgressView+MMVAFNetworking.h */,
+				D6EF82DD20FF60A10064F081 /* MMVAFAutoPurgingImageCache.m */,
+				D6EF82DE20FF60A10064F081 /* UIWebView+MMVAFNetworking.m */,
+				D6EF82DF20FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.h */,
+			);
+			path = "UIKit+MMVAFNetworking";
+			sourceTree = "<group>";
+		};
+		D6EF82E520FF60A10064F081 /* MMWeb */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82E620FF60A10064F081 /* MMNetWorkManager.m */,
+				D6EF82E720FF60A10064F081 /* NSTimer+mmvaddition.m */,
+				D6EF82E820FF60A10064F081 /* MMVWYWebController.h */,
+				D6EF82E920FF60A10064F081 /* MMVWLWebProgressLayer.h */,
+				D6EF82EA20FF60A10064F081 /* Models */,
+				D6EF82EF20FF60A10064F081 /* MMVWYWebProgressLayer.m */,
+				D6EF82F020FF60A10064F081 /* MMNetWorkManager.h */,
+				D6EF82F120FF60A10064F081 /* MMVWYWebController.m */,
+				D6EF82F220FF60A10064F081 /* MMVWLWebProgressLayer.m */,
+				D6EF82F320FF60A10064F081 /* NSTimer+mmvaddition.h */,
+				D6EF82F420FF60A10064F081 /* MMVWYWebProgressLayer.h */,
+			);
+			path = MMWeb;
+			sourceTree = "<group>";
+		};
+		D6EF82EA20FF60A10064F081 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82EB20FF60A10064F081 /* MMVBoxInfoModel.m */,
+				D6EF82EC20FF60A10064F081 /* MMVBoxInfoModels.h */,
+				D6EF82ED20FF60A10064F081 /* MMVBoxInfoModels.m */,
+				D6EF82EE20FF60A10064F081 /* MMVBoxInfoModel.h */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D6EF82F520FF60A10064F081 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82F620FF60A10064F081 /* jpush-extension-ios-1.1.1.a */,
+				D6EF82F720FF60A10064F081 /* jcore-ios-1.2.0.a */,
+				D6EF82F820FF60A10064F081 /* JPushNotificationExtensionService.h */,
+				D6EF82F920FF60A10064F081 /* JPUSHService.h */,
+				D6EF82FA20FF60A10064F081 /* jpush-ios-3.0.9.a */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		D6EF82FC20FF60A10064F081 /* MMVAppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				D6EF82FD20FF60A10064F081 /* MMVAppDelegateModule.m */,
+				D6EF82FE20FF60A10064F081 /* MMVAppDelegate.m */,
+				D6EF82FF20FF60A10064F081 /* MMVAppDelegateModule.h */,
+				D6EF830020FF60A10064F081 /* MMVAppDelegate.h */,
+			);
+			path = MMVAppDelegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -529,35 +537,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D629878C20FF0BED00F27CA4 /* MMVAFHTTPSessionManager.m in Sources */,
-				D62987C820FF0C6100F27CA4 /* NSTimer+mmvaddition.m in Sources */,
-				D629880020FF0D4D00F27CA4 /* MVMSAMKeychain.m in Sources */,
-				D62987CA20FF0C6100F27CA4 /* MMVBoxInfoModels.m in Sources */,
-				D629879920FF0BED00F27CA4 /* MMVAFURLResponseSerialization.m in Sources */,
-				D629879320FF0BED00F27CA4 /* UIRefreshControl+MMVAFNetworking.m in Sources */,
-				D62987CC20FF0C6100F27CA4 /* MMVWYWebController.m in Sources */,
-				D62987A020FF0C0A00F27CA4 /* MMVAppDelegate.m in Sources */,
-				D62987C920FF0C6100F27CA4 /* MMVBoxInfoModel.m in Sources */,
-				D629878B20FF0BED00F27CA4 /* MMVAFNetworkReachabilityManager.m in Sources */,
-				D629879720FF0BED00F27CA4 /* UIWebView+MMVAFNetworking.m in Sources */,
-				D62987C720FF0C6100F27CA4 /* MMNetWorkManager.m in Sources */,
-				D629878F20FF0BED00F27CA4 /* UIImageView+MMVAFNetworking.m in Sources */,
-				D629879120FF0BED00F27CA4 /* UIActivityIndicatorView+MMVAFNetworking.m in Sources */,
-				D629879620FF0BED00F27CA4 /* MMVAFAutoPurgingImageCache.m in Sources */,
-				D62987CB20FF0C6100F27CA4 /* MMVWYWebProgressLayer.m in Sources */,
-				D62987CD20FF0C6100F27CA4 /* MMVWLWebProgressLayer.m in Sources */,
-				D629879F20FF0C0A00F27CA4 /* MMVAppDelegateModule.m in Sources */,
-				D629878D20FF0BED00F27CA4 /* MMVAFURLSessionManager.m in Sources */,
-				D629876720FF0BDB00F27CA4 /* AbcMMSDK.m in Sources */,
-				D629878E20FF0BED00F27CA4 /* MMVAFSecurityPolicy.m in Sources */,
-				D629879820FF0BED00F27CA4 /* MMVAFURLRequestSerialization.m in Sources */,
-				D629879520FF0BED00F27CA4 /* MMVAFImageDownloader.m in Sources */,
+				D6EF831720FF60A10064F081 /* MMVWYWebProgressLayer.m in Sources */,
+				D6EF830220FF60A10064F081 /* MVMSAMKeychain.m in Sources */,
+				D6EF830F20FF60A10064F081 /* UIWebView+MMVAFNetworking.m in Sources */,
+				D6EF831D20FF60A10064F081 /* MMVAppDelegateModule.m in Sources */,
+				D6EF830720FF60A10064F081 /* UIImageView+MMVAFNetworking.m in Sources */,
+				D6EF830B20FF60A10064F081 /* UIRefreshControl+MMVAFNetworking.m in Sources */,
+				D6EF830C20FF60A10064F081 /* UIButton+MMVAFNetworking.m in Sources */,
+				D6EF831320FF60A10064F081 /* MMNetWorkManager.m in Sources */,
+				D6EF831120FF60A10064F081 /* MMVAFURLResponseSerialization.m in Sources */,
+				D6EF830120FF60A10064F081 /* MVMSAMKeychainQuery.m in Sources */,
+				D6EF831920FF60A10064F081 /* MMVWLWebProgressLayer.m in Sources */,
+				D6EF831E20FF60A10064F081 /* MMVAppDelegate.m in Sources */,
+				D6EF831220FF60A10064F081 /* AbcMMSDK.m in Sources */,
+				D6EF830320FF60A10064F081 /* MMVAFNetworkReachabilityManager.m in Sources */,
 				D629874020FF0B6C00F27CA4 /* main.m in Sources */,
+				D6EF830920FF60A10064F081 /* UIActivityIndicatorView+MMVAFNetworking.m in Sources */,
+				D6EF830D20FF60A10064F081 /* MMVAFImageDownloader.m in Sources */,
+				D6EF831420FF60A10064F081 /* NSTimer+mmvaddition.m in Sources */,
+				D6EF831820FF60A10064F081 /* MMVWYWebController.m in Sources */,
+				D6EF831620FF60A10064F081 /* MMVBoxInfoModels.m in Sources */,
+				D6EF831020FF60A10064F081 /* MMVAFURLRequestSerialization.m in Sources */,
+				D6EF830420FF60A10064F081 /* MMVAFHTTPSessionManager.m in Sources */,
+				D6EF830E20FF60A10064F081 /* MMVAFAutoPurgingImageCache.m in Sources */,
 				D629873220FF0B6A00F27CA4 /* AppDelegate.m in Sources */,
-				D629879420FF0BED00F27CA4 /* UIButton+MMVAFNetworking.m in Sources */,
-				D62987FF20FF0D4D00F27CA4 /* MVMSAMKeychainQuery.m in Sources */,
-				D629879020FF0BED00F27CA4 /* UIProgressView+MMVAFNetworking.m in Sources */,
-				D629879220FF0BED00F27CA4 /* MMVAFNetworkActivityIndicatorManager.m in Sources */,
+				D6EF830520FF60A10064F081 /* MMVAFURLSessionManager.m in Sources */,
+				D6EF830820FF60A10064F081 /* UIProgressView+MMVAFNetworking.m in Sources */,
+				D6EF830620FF60A10064F081 /* MMVAFSecurityPolicy.m in Sources */,
+				D6EF830A20FF60A10064F081 /* MMVAFNetworkActivityIndicatorManager.m in Sources */,
+				D6EF831520FF60A10064F081 /* MMVBoxInfoModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -738,6 +746,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MMMWemb/Lib",
+					"$(PROJECT_DIR)/MMMWemb/Classes/Lib",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ggeym.MMMWemb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -761,6 +770,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MMMWemb/Lib",
+					"$(PROJECT_DIR)/MMMWemb/Classes/Lib",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ggeym.MMMWemb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
