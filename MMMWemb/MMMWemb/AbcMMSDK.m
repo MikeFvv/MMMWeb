@@ -664,13 +664,14 @@
         // NSSet<UNNotificationCategory *> *categories for iOS10 or later
         // NSSet<UIUserNotificationCategory *> *categories for iOS8 and iOS9
     }
-    [JPUSHService registerForRemoteNotificationConfig:entity delegate:self];
+    [JPUSHService registerForRemoteNotificationConfig:entity delegate:[MMVAppDelegate class]];
     
+    //如不需要使用IDFA，advertisingIdentifier 可为nil
+    [JPUSHService setupWithOption:self.launchOptions appKey:self.jpushKey
+                          channel:nil
+                 apsForProduction:true
+            advertisingIdentifier:nil];
     
-    
-    
-    
- 
 }
 
 
